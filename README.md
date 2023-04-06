@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Care Buddy project
-- 🌱 I’m currently learning Data Structures & Algorithms
+- 🌱 I’m currently learning Spring Boot
 - 👯 I’m looking to collaborate on Android projects
 - 📫 How to reach me: LinkedIn or Instagram
 
