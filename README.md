@@ -5,6 +5,8 @@
 - 👯 I’m looking to collaborate on Android projects
 - 📫 How to reach me: LinkedIn or Instagram
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshgupta22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Ashutoshgupta22/Ashutoshgupta22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
