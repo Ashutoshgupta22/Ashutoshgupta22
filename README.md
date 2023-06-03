@@ -14,8 +14,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshgupta22&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashutoshgupta22"/>
+
 ## 👁️ Profile Visits
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
+![](https://visitor-badge.laobi.icu/badge?page_id=ashutoshgupta22.ashutoshgupta22)
 
 <!--
 **Ashutoshgupta22/Ashutoshgupta22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
